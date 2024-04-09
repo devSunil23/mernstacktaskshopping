@@ -1,0 +1,20 @@
+.ourProductsHeader {
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    background-color: #51829b;
+    color: #fff;
+    padding: 0px 120px;
+    justify-content: space-between;
+}
+
+.productListContainer {
+    padding: 20px 120px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.productCardMainDiv {
+    width: 300px;
+    margin: 10px;
+}
